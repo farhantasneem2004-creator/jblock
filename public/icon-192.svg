@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="36" fill="#181818"/>
+  <rect x="8" y="8" width="176" height="176" rx="28" fill="#21252b" stroke="#333842" stroke-width="4"/>
+  <!-- JBlock cube emblem -->
+  <path d="M96 36 L150 67 L96 98 L42 67 Z" fill="#2d3748" stroke="#4a5568" stroke-width="3"/>
+  <path d="M42 67 L96 98 L96 156 L42 125 Z" fill="#1a202c" stroke="#4a5568" stroke-width="3"/>
+  <path d="M150 67 L96 98 L96 156 L150 125 Z" fill="#2d3748" stroke="#4a5568" stroke-width="3"/>
+  <!-- Java 'J' mark in cyan/emerald -->
+  <text x="96" y="122" font-family="Segoe UI, -apple-system, sans-serif" font-weight="900" font-size="64" fill="#4fd1c5" text-anchor="middle">J</text>
+</svg>

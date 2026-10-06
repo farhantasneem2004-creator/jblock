@@ -1,0 +1,6 @@
+{
+  "name": "JBlock",
+  "description": "Simple Java Development Environment - a clean, lightweight, beginner-friendly desktop-style Java IDE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
